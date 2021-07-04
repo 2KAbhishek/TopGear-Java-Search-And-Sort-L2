@@ -25,11 +25,6 @@
 
 <h2>Short sweet headline with 🎇🎉</h2>
 
-<figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/TopGear-Java-Search-And-Sort-L2/master/images/screenshot.jpg" alt="TopGear-Java-Search-And-Sort-L2 Demo" style="width:100%">
-  <figcaption>TopGear-Java-Search-And-Sort-L2 Screenshot</figcaption>
-</figure>
-
 </div>
 
 ## Inspiration
