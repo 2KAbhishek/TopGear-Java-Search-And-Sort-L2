@@ -23,79 +23,42 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>Short sweet headline with 🎇🎉</h2>
+<h2>Solutions for Java-Data-Structures-L1 ☕🔎</h2>
 
 </div>
-
-## Inspiration
-
-TopGear-Java-Search-And-Sort-L2 was inspired by `<reason/idea>`.
-
-## What it does
-
-TopGear-Java-Search-And-Sort-L2 is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `jdk`
 
-## Installing TopGear-Java-Search-And-Sort-L2
+## Getting TopGear-Java-Search-And-Sort-L2
 
-To install TopGear-Java-Search-And-Sort-L2, follow these steps:
+To get TopGear-Java-Search-And-Sort-L2, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/TopGear-Java-Search-And-Sort-L2
 cd TopGear-Java-Search-And-Sort-L2
-<install_command>
 ```
 
 ## Using TopGear-Java-Search-And-Sort-L2
 
+Solutions are placed in the `Tasks` directory
+
 ```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
+javac Code.java # Compile
+java Code # Execute
 ```
-
-## How it was built
-
-TopGear-Java-Search-And-Sort-L2 was built using `<tech/library>`
-
-## Challenges faced
-
-While building TopGear-Java-Search-And-Sort-L2 the main challenges were `<issue/difficulty>`
-
-## What I learned
-
-While building TopGear-Java-Search-And-Sort-L2 I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Add colors to the UI, a configuration management system.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
 
 Hit the :star: button if you found this useful.
 
 ## More Info
 
 <div align="center">
+
+<strong>Disclaimer!</strong><br>
+These solutions have been shared for learning purposes only. <br>
 
 <a href="https://github.com/2KAbhishek/TopGear-Java-Search-And-Sort-L2">Source</a> |
 <a href="https://2kabhishek.github.io/TopGear-Java-Search-And-Sort-L2">Website</a>
